@@ -55,6 +55,9 @@ My path into software came through physics studies, electrical work, renewable-e
 ## Links
 
 - [Portfolio](https://portfolio-dun-xi-20.vercel.app)
+- [AEH case study](https://portfolio-dun-xi-20.vercel.app/work/aeh)
+- [How I build with AI](https://portfolio-dun-xi-20.vercel.app/work/building-with-ai)
+- [One-page CV](https://portfolio-dun-xi-20.vercel.app/JeanCarlo-Sierra-CV.pdf)
 - [LinkedIn](https://www.linkedin.com/in/jencarlo-sierra-121622232)
 - [Email](mailto:jeancarlopelaez99@gmail.com)
 
