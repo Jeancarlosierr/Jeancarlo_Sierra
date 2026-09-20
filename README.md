@@ -17,7 +17,7 @@ Independent product project built from a real coach-athlete workflow.
 - Trainer planning and prescription connected to an athlete calendar, factual prescribed/free-session execution, feedback, and history.
 - Real Chromium verification against disposable Supabase for integrated trainer-athlete journeys.
 
-[Explore the AEH case study](https://portfolio-gyq0s3mue-aeh2.vercel.app/work/aeh)
+[Explore the AEH case study](https://portfolio-dun-xi-20.vercel.app/work/aeh)
 
 ### Agentic development & verification
 
@@ -30,7 +30,7 @@ I am also developing a practical workflow for working with coding agents through
 - explicit human acceptance;
 - process changes driven by observed failures.
 
-[See how I build with AI](https://portfolio-gyq0s3mue-aeh2.vercel.app/work/building-with-ai)
+[See how I build with AI](https://portfolio-dun-xi-20.vercel.app/work/building-with-ai)
 
 ## Capabilities
 
@@ -54,7 +54,7 @@ My path into software came through physics studies, electrical work, renewable-e
 
 ## Links
 
-- [Portfolio](https://portfolio-gyq0s3mue-aeh2.vercel.app)
+- [Portfolio](https://portfolio-dun-xi-20.vercel.app)
 - [LinkedIn](https://www.linkedin.com/in/jencarlo-sierra-121622232)
 - [Email](mailto:jeancarlopelaez99@gmail.com)
 
