@@ -50,7 +50,7 @@ My path into software came through physics studies, electrical work, renewable-e
 - University studies in Physics · 3 years · degree not completed
 - Spanish · Native
 - English · B1
-- Drone certifications · A1/A3 · A2 · STS theoretical
+- Drone certifications · A1/A3 · A2 · STS theoretical + practical
 
 ## Links
 
